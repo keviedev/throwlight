@@ -40,3 +40,8 @@ html {
 .widthSocial {
   width: 24%;
 }
+
+video.loading {
+    background: black url(/img/Throwlight.png) center center no-repeat;
+  }
+
