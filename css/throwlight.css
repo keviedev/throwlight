@@ -53,3 +53,7 @@ video.loading {
     color: rgb(0, 167, 225) !important;
   }
 
+  .numberBottomMargin {
+    margin-bottom: 2%;
+  }
+
