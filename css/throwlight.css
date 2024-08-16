@@ -45,3 +45,11 @@ video.loading {
     background: black url(/img/Throwlight.png) center center no-repeat;
   }
 
+  .uk-countdown-label {
+    color: rgb(0, 167, 225) !important;
+  }
+
+  .uk-countdown-number {
+    color: rgb(0, 167, 225) !important;
+  }
+
