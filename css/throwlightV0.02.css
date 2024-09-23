@@ -61,4 +61,8 @@ video.loading {
     color: rgb(225, 225, 0) !important;
     text-align: center !important;
   }
+  .counter-descriptor, b {
+    color: rgb(225, 225, 0) !important;
+    text-align: center !important;
+  }
 
