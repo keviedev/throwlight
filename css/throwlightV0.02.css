@@ -57,3 +57,8 @@ video.loading {
     margin-bottom: 5%;
   }
 
+  .counter-descriptor {
+    color: rgb(225, 225, 0) !important;
+    text-align: center;
+  }
+
