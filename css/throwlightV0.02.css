@@ -59,6 +59,6 @@ video.loading {
 
   .counter-descriptor {
     color: rgb(225, 225, 0) !important;
-    text-align: center;
+    text-align: center !important;
   }
 
