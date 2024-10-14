@@ -46,11 +46,11 @@ video.loading {
   }
 
   .uk-countdown-label {
-    color: rgb(239, 43, 164) !important;
+    color: rgb(255, 92, 0) !important;
   }
 
   .uk-countdown-number {
-    color: rgb(239, 43, 164) !important;
+    color: rgb(255, 92, 0) !important;
   }
   
   .numberBottomMargin {
@@ -58,11 +58,11 @@ video.loading {
   }
 
   .counter-descriptor {
-    color: rgb(239, 43, 164) !important;
+    color: rgb(255, 92, 0) !important;
     text-align: center !important;
   }
   .counter-descriptor, h3 {
-    color: rgb(239, 43, 164) !important;
+    color: rgb(255, 92, 0) !important;
     text-align: center !important;
   }
 
